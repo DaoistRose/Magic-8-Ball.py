@@ -104,3 +104,7 @@ Whether it’s predicting your future or sparking a smile, a little bit of code 
 ### Feedback?
 
 How would you improve this project? I’m new to programming, and every day is a new opportunity to learn. Looking forward to hearing from you all!
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5r257xq4wm8e3wnyjl9q.png)
+---
